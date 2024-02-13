@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dialog ornek-777", "dialog ornek-777\dialog ornek-777.csproj", "{D06DB2C0-B97B-4DF8-BD7D-00E830925BEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D06DB2C0-B97B-4DF8-BD7D-00E830925BEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D06DB2C0-B97B-4DF8-BD7D-00E830925BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D06DB2C0-B97B-4DF8-BD7D-00E830925BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D06DB2C0-B97B-4DF8-BD7D-00E830925BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B11C5E4-47D4-455D-A7C3-AAAA27716139}
+	EndGlobalSection
+EndGlobal
